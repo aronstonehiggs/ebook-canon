@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "970de5d017b8825f",
+    "type": "split",
+    "children": [
+      {
+        "id": "16070ca0f1906284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "251ec0c597e5f51b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53b0a308b08b8d1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d2a68788eeff522",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68737b4d656f6018",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "58eca7209acd3a73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "76f625dcc16a7952",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0457638a345cac6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5161626fe40bdd51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a36d43c5fae04d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My Bible/01 Genesis/Genesis 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Genesis 2"
+            }
+          },
+          {
+            "id": "bfa4b6bf193c7212",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "鲁迅全集（全20册）/华盖集续编.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 华盖集续编"
+            }
+          },
+          {
+            "id": "b5f195fd3dc823e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "156a0272317cc4dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "7a139298a492d968",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "251ec0c597e5f51b",
+  "lastOpenFiles": [
+    "gitignore~",
+    "大李敖全集/README.md",
+    "大李敖全集/wjm_tcy.md",
+    "大李敖全集/cover.jpg",
+    "大李敖全集/SUMMARY.md",
+    "大李敖全集/01.自传回忆类/李敖自传与回忆.md",
+    "大李敖全集/01.自传回忆类/我最难忘的事和人.md",
+    "大李敖全集/17.百家论李敖合集/百家论李敖.md",
+    "大李敖全集/17.百家论李敖合集/李敖研究fashion文集.md",
+    "大李敖全集/17.百家论李敖合集/README.md",
+    "大李敖全集/16.李敖祸台十书/第一流人的境界.md",
+    "大李敖全集/16.李敖祸台十书/笑傲五十年.md",
+    "大李敖全集/16.李敖祸台十书/李敖生死书.md",
+    "大李敖全集/16.李敖祸台十书/李敖智慧书.md",
+    "大李敖全集/16.李敖祸台十书/我们没有明天.md",
+    "大李敖全集/16.李敖祸台十书/恰似我的温柔.md",
+    "大李敖全集/16.李敖祸台十书/启发你的小故事.md",
+    "大李敖全集/16.李敖祸台十书/君子爱人以色.md",
+    "大李敖全集/16.李敖祸台十书/只爱一点点.md",
+    "大李敖全集/16.李敖祸台十书/从万宝囊到臭屎堆.md",
+    "大李敖全集/16.李敖祸台十书/README.md",
+    "大李敖全集/15.雷霆法律类/李敖闹衙集.md",
+    "大李敖全集/15.雷霆法律类/李敖放刁集.md",
+    "大李敖全集/15.雷霆法律类/李敖弄法集.md",
+    "大李敖全集/15.雷霆法律类/李敖好讼集.md",
+    "大李敖全集/15.雷霆法律类/李敖刀笔集.md",
+    "大李敖全集/15.雷霆法律类/README.md",
+    "大李敖全集/book.toml",
+    "大李敖全集/LICENSE",
+    "大李敖全集/17.百家论李敖合集",
+    "大李敖全集/16.李敖祸台十书",
+    "大李敖全集/15.雷霆法律类",
+    "大李敖全集/14.台湾史政类",
+    "大李敖全集/13.国民党史政类",
+    "大李敖全集/12.人物研究类",
+    "大李敖全集/11.李敖电子报合集",
+    "大李敖全集/10.李敖节目演讲合集",
+    "cover.jpg",
+    "木心全集（典藏套装十六册）/images/cover.jpeg",
+    "木心全集（典藏套装十六册）/images/00233.jpeg",
+    "木心全集（典藏套装十六册）/images/00232.jpeg",
+    "木心全集（典藏套装十六册）/images/00231.jpeg",
+    "木心全集（典藏套装十六册）/images/00230.jpeg",
+    "木心全集（典藏套装十六册）/images/00229.jpeg",
+    "木心全集（典藏套装十六册）/images/00228.jpeg",
+    "木心全集（典藏套装十六册）/images/00227.jpeg"
+  ]
+}

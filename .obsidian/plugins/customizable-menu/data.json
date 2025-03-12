@@ -1,0 +1,15 @@
+{
+  "menuCommands": [
+    {
+      "name": "Search on Internet: Perform search",
+      "id": "search-on-internet:search-on-internet",
+      "icon": "book"
+    },
+    {
+      "name": "Dictionary: Open Dictionary View",
+      "id": "obsidian-dictionary-plugin:dictionary-open-view",
+      "icon": "activity"
+    }
+  ],
+  "hideTitles": []
+}

@@ -1,0 +1,23 @@
+{
+  "searches": [
+    {
+      "tags": [],
+      "query": "https://www.google.com/search?&q=define:{{query}}",
+      "name": "Google",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://www.kangxizidian.com/search/index.php?stype=Word&sword={{query}}&detail=y",
+      "name": "kangxi",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://www.etymonline.com/word/{{query}}",
+      "name": "etymonline",
+      "encode": true
+    }
+  ],
+  "useIframe": true
+}
