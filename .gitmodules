@@ -13,3 +13,6 @@
 [submodule "en/bible"]
 	path = en/bible
 	url = git@github.com:aronstonehiggs/bible.git
+[submodule "cn/wangyangming"]
+	path = cn/wangyangming
+	url = git@github.com:aronstonehiggs/wangyangming.git
