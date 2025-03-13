@@ -10,3 +10,6 @@
 [submodule "muxin"]
 	path = muxin
 	url = git@github.com:aronstonehiggs/muxin.git
+[submodule "en/bible"]
+	path = en/bible
+	url = git@github.com:aronstonehiggs/bible.git
