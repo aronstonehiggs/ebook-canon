@@ -7,3 +7,6 @@
 [submodule "鲁迅全集"]
 	path = 鲁迅全集
 	url = git@github.com:aronstonehiggs/luxun.git
+[submodule "muxin"]
+	path = muxin
+	url = git@github.com:aronstonehiggs/muxin.git
