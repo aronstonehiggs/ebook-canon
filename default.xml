@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <manifest>
+        <default revision="main" remote="origin"/>
+        <remote name="aronstonehiggs" fetch="ssh://git@github.com"/>
+
+        <poject name="aronstonehiggs/leeao.git" remote="aronstonehiggs" path="大李敖全集" revision="master"/>
+        <project name="aronstonehiggs/MaBoYong.git" remote="aronstonehiggs" path="马伯庸全集" revision="main"/>
+</manifest>
