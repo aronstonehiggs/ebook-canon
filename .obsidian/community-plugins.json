@@ -7,5 +7,7 @@
   "customizable-menu",
   "search-on-internet",
   "obsidian-regex-replace",
-  "obsidian-importer"
+  "obsidian-importer",
+  "custom-sort",
+  "remember-cursor-position"
 ]
