@@ -138,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "马伯庸全集/显微镜下的大明/推荐序｜和菜头.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 推荐序｜和菜头"
             }
           },
           {
@@ -176,11 +177,16 @@
   },
   "active": "68737b4d656f6018",
   "lastOpenFiles": [
-    "default.xml~",
-    "default.xml",
+    "gitignore~",
     "马伯庸全集/显微镜下的大明/images/cover.jpg",
     "马伯庸全集/显微镜下的大明/images/cover.jpeg",
     "马伯庸全集/显微镜下的大明/images/1.jpg",
+    "马伯庸全集/显微镜下的大明/images",
+    "马伯庸全集/显微镜下的大明",
+    "马伯庸全集/LICENSE",
+    "马伯庸全集",
+    "default.xml~",
+    "default.xml",
     "马伯庸全集/显微镜下的大明/第四章 秋后算账.md",
     "马伯庸全集/显微镜下的大明/第二章 六县大辩论.md",
     "马伯庸全集/显微镜下的大明/第三章 稀泥与暴乱.md",
@@ -188,10 +194,6 @@
     "马伯庸全集/显微镜下的大明/显微镜下的大明.md",
     "马伯庸全集/显微镜下的大明/推荐序｜和菜头.md",
     "马伯庸全集/显微镜下的大明/引言.md",
-    "马伯庸全集/显微镜下的大明/images",
-    "马伯庸全集/显微镜下的大明",
-    "马伯庸全集/LICENSE",
-    "马伯庸全集",
     "大李敖全集/16.李敖祸台十书/第一流人的境界.md",
     "大李敖全集/16.李敖祸台十书/笑傲五十年.md",
     "大李敖全集/16.李敖祸台十书/李敖生死书.md",
@@ -215,7 +217,6 @@
     "大李敖全集/LICENSE",
     "大李敖全集/16.李敖祸台十书",
     "大李敖全集/17.百家论李敖合集",
-    "大李敖全集/15.雷霆法律类",
     "leeao/cover.jpg",
     "bak/cover.jpg",
     "cover.jpg",
