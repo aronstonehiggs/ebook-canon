@@ -4,4 +4,6 @@
 
         <poject name="aronstonehiggs/leeao.git" remote="aronstonehiggs" path="大李敖全集" revision="master"/>
         <project name="aronstonehiggs/MaBoYong.git" remote="aronstonehiggs" path="马伯庸全集" revision="main"/>
+        <project name="aronstonehiggs/luxun.git" remote="aronstonehiggs" path="鲁迅全集" revision="main"/>
+</manifest>
 </manifest>
