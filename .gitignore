@@ -4,3 +4,4 @@
 *.azw3
 .repo/
 .obsidian/workspace.json
+.obsidian/plugins/remember-cursor-position/cursor-positions.json
