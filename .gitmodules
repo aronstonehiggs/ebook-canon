@@ -16,3 +16,6 @@
 [submodule "cn/wangyangming"]
 	path = cn/wangyangming
 	url = git@github.com:aronstonehiggs/wangyangming.git
+[submodule "en/Scripts"]
+	path = en/Scripts
+	url = git@github.com:aronstonehiggs/scripts.git
